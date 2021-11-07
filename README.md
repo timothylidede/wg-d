@@ -18,7 +18,7 @@
 
 -   👨‍💻 I work with **Flexible Timezone - mainly EST, EEST**
 
--   💬 Ask me about **Front-end,Shopify,Wix,Laravel**.
+-   💬 Ask me about **Front-end, Shopify, Wix, Laravel**.
 
 -   📫 How to reach me **Send SMS to +1 (802) 455-8482‬**.
 
