@@ -27,8 +27,8 @@
 
 <p align="left">
 <a href="https://codepen.io/wg-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rescenic" height="70" width="70" /></a>
-<a href="https://dev.to/wgd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rescenic" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/17038331/dmitriy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9960019" height="20" width="20" /></a>
+<a href="https://dev.to/wgd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rescenic" height="70" width="40" /></a>
+<a href="https://stackoverflow.com/users/17038331/dmitriy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9960019" height="70" width="70" /></a>
 <a href="mailto:dmitiykokolo@outlook.com"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png"/></a>
 <a href="https://join.skype.com/HghXRqlKRvdN"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-skype-social-media-justicon-flat-justicon.png"/></a>
 </p>
