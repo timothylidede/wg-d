@@ -26,7 +26,7 @@
 ## Connect with me ##
 
 <p align="left">
-<a href="https://codepen.io/wg-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rescenic" height="20" width="20" /></a>
+<a href="https://codepen.io/wg-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rescenic" height="120" width="120" /></a>
 <a href="https://dev.to/wgd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rescenic" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/17038331/dmitriy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9960019" height="20" width="20" /></a>
 <a href="mailto:dmitiykokolo@outlook.com"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png"/></a>
