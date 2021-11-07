@@ -1,5 +1,5 @@
 <a href="mailto:dmitiykokolo@outlook.com"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png"/></a>
-<a href="https://join.skype.com/HghXRqlKRvdN"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-skype-social-media-justicon-flat-justicon.png"/></a>
+<a href="https://join.skype.com/HghXRqlKRvdN"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-skype-social-media-justicon-flat-justicon.png" width=70px/></a>
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 <h3 align="center">FRONT-END ENGINEER & ECOMMERCE SPECIALIST</h3>
 <h4 align="center">I am a passionate and self-motivated front-end engineer and eCommerce specialist. I have worked in serveral start-up companies, for which I had to work on several kinds of work. I focus mainly on front-end but I had to work on backend development and some DevOps works like deploying and maintaining server, enhancing SEO. I have hands-on experience in developing CMS, LMS, CRM, Online Store, Real Estate Management Platform, Crypto & NFT Auction Platforms since I had been involved in different start-up companies from various markets - Business, Education, Sports, Social Relation Management.</h4>
