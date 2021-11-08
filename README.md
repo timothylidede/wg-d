@@ -12,20 +12,20 @@
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
 </p>
    🔭 I’m currently working on **React Native, Ethereum**.
-
+   
   🌱 I’m currently learning **Solana, Ruby, Golang**.
-
+  
   👯 I’m looking to collaborate on **Open Source Projects, HR Management**.
 
   🤝 I’m looking for help with **Investing in my NFT Marketplace**.
 
-   👨‍💻 I work with **Flexible Timezone - mainly EST, EEST**
+  👨‍💻 I work with **Flexible Timezone - mainly EST, EEST**
 
-   💬 Ask me about **Front-end, Shopify, Wix, Laravel**.
+  💬 Ask me about **Front-end, Shopify, Wix, Laravel**.
 
   📫 How to reach me **Send SMS to +1 (802) 455-8482‬**.
 
-   📄 5 years of mature experience in **Software Development**
+  📄 5 years of mature experience in **Software Development**
 
   ⚡ Fun fact: **I work on ERC721, BEP20 Standards**
 
