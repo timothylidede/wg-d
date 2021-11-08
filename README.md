@@ -11,24 +11,25 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=phanatagama&no-bg=true&no-frame=true&theme=onedark&column=7" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
 </p>
-   🔭 I’m currently working on **React Native, Ethereum**.
+<ul>
+<li>   🔭 I’m currently working on **React Native, Ethereum**</li>
    
-  🌱 I’m currently learning **Solana, Ruby, Golang**.
+<li> 🌱 I’m currently learning **Solana, Ruby, Golang**</li>
   
-  👯 I’m looking to collaborate on **Open Source Projects, HR Management**.
+<li> 👯 I’m looking to collaborate on **Open Source Projects, HR Management**</li>
 
-  🤝 I’m looking for help with **Investing in my NFT Marketplace**.
+<li> 🤝 I’m looking for help with **Investing in my NFT Marketplace**</li>
 
-  👨‍💻 I work with **Flexible Timezone - mainly EST, EEST**
+<li>👨‍💻 I work with **Flexible Timezone - mainly EST, EEST**</li>
 
-  💬 Ask me about **Front-end, Shopify, Wix, Laravel**.
+<li> 💬 Ask me about **Front-end, Shopify, Wix, Laravel**</li>
 
-  📫 How to reach me **Send SMS to +1 (802) 455-8482‬**.
+<li> 📫 How to reach me **Send SMS to +1 (802) 455-8482‬**</li>
 
-  📄 5 years of mature experience in **Software Development**
+<li>📄 5 years of mature experience in **Software Development**</li>
 
-  ⚡ Fun fact: **I work on ERC721, BEP20 Standards**
-
+  <li>⚡ Fun fact: **I work on ERC721, BEP20 Standards**</li>
+</ul>
 ## Connect with me ##
 
 <p align="left">
