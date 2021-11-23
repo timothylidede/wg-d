@@ -1,5 +1,5 @@
-<a href="mailto:dmitiykokolo@outlook.com"><i style="color:blue">Let's keep posted!</i></a>
-<a href="https://join.skype.com/HghXRqlKRvdN"><i style="color:blue">Instant Messaging</i></a>
+<a href="mailto:dmitiykokolo@outlook.com"><i style="color:green">Let's keep posted!</i></a>
+<a href="https://join.skype.com/HghXRqlKRvdN"><i style="color:green">Instant Messaging</i></a>
 <h1 align="center" style="border-top:1px solid #999">Hi 👋, I'm Dmitriy</h1>
 <h3 align="center">FRONT-END ENGINEER & ECOMMERCE SPECIALIST</h3>
 <h4>About me</h4>
