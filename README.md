@@ -28,9 +28,9 @@
 
 <li>📄 5 years of mature experience in **Software Development**</li>
 
-<li>🌹I love **Making Friends and Gardening**</li>
+<li>🌹 I love **Making Friends and Gardening**</li>
 
-<li>If you lose my contact or you are stranger to me but want to know what I am doing, browse **Dmitriy in freelancer.com**</li>
+<li>😉 If you lose my contact or you are stranger to me but want to know what I am doing, browse **Dmitriy in freelancer.com**</li>
 
 </ul>
 ## Connect with me ##
