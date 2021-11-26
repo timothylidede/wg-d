@@ -14,9 +14,9 @@
 <ul>
 <li>   🔭 I’m currently working on **React Native, Ethereum**</li>
    
-<li> 🌱 I’m currently learning **Solana, Ruby, Golang**</li>
+<li> 🌱 I’m interested in growing experience in **Open Source Projects**</li>
   
-<li> 👯 I’m looking to collaborate on **Open Source Projects, HR Management**</li>
+<li> 👯 I’m looking to collaborate on **Huge Projects**</li>
 
 <li> 🤝 I’m looking for help with **Investing in my NFT Marketplace**</li>
 
@@ -28,7 +28,10 @@
 
 <li>📄 5 years of mature experience in **Software Development**</li>
 
-  <li>⚡ Fun fact: **I work on ERC721, BEP20 Standards**</li>
+<li>🌹I love **Making Friends and Gardening**</li>
+
+<li>If you lose my contact or you are stranger to me but want to know what I am doing, browse **Dmitriy in freelancer.com**</li>
+
 </ul>
 ## Connect with me ##
 
