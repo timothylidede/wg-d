@@ -40,7 +40,7 @@
 <p align="left">
 <a href="https://codepen.io/wg-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rescenic" height="48" width="48" /></a>
 <a href="https://dev.to/wgd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rescenic" height="70" width="40" /></a>
-<a href="https://stackoverflow.com/users/17038331/dmitriy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9960019" height="48" width="48" /></a>
+<a href="https://stackoverflow.com/users/17038331/wall-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9960019" height="48" width="48" /></a>
 </p>
 
 ### Languages and Tools**
