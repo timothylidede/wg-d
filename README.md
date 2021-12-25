@@ -5,11 +5,11 @@
 <h4>About me</h4>
 <p align="left">I am a passionate and self-motivated front-end engineer and eCommerce specialist. I have worked in serveral start-up companies, for which I had to work on several kinds of work. I focus mainly on front-end but I had to work on backend development and some DevOps works like deploying and maintaining server, enhancing SEO. I have hands-on experience in developing CMS, LMS, CRM, Online Store, Real Estate Management Platform, Crypto & NFT Auction Platforms since I had been involved in different start-up companies from various markets - Business, Education, Sports, Social Relation Management.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wg-d&label=Profile%20views&color=blue&style=flat" alt="rescenic" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wg-d&label=Profile%20views&color=blue&style=flat" alt="wg-d" /> </p>
 
- [![GitHub Game of Life](https://github4life.herokuapp.com/1834924958.gif?z=6)](https://github4life.herokuapp.com/1834924958)
+ [![GitHub Game of Life](https://github4life.herokuapp.com/wg-d.gif?z=6)](https://github4life.herokuapp.com/wg-d)
 
-  |   ![1834924958's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1834924958&theme=nightowl)](https://git.io/streak-stats)     |
+  |   ![wg-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=1834924958&column=7&margin-w=20&theme=juicyfresh" alt="1834924958's Github Trophy" />
