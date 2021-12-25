@@ -1,6 +1,6 @@
 <a style="color:green" href="mailto:dmitiykokolo@outlook.com"><i style="color:green">Let's keep posted!</i></a>
 <a style="color:green" href="https://join.skype.com/HghXRqlKRvdN"><i style="color:green">Instant Messaging</i></a>
-<h1 align="center" style="border-top:1px solid #999">Hi 👋, I'm Wall-E!</h1>
+<h1 align="center" style="border-top:1px solid #999">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Wall-E!</h1>
 <h3 align="center">FRONT-END ENGINEER & ECOMMERCE SPECIALIST</h3>
 <h4>About me</h4>
 <p align="left">I am a passionate and self-motivated front-end engineer and eCommerce specialist. I have worked in serveral start-up companies, for which I had to work on several kinds of work. I focus mainly on front-end but I had to work on backend development and some DevOps works like deploying and maintaining server, enhancing SEO. I have hands-on experience in developing CMS, LMS, CRM, Online Store, Real Estate Management Platform, Crypto & NFT Auction Platforms since I had been involved in different start-up companies from various markets - Business, Education, Sports, Social Relation Management.</p>
