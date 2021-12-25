@@ -15,8 +15,7 @@
   |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wg-d&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wg-d&theme=github_dark)     |
 | --- | --- |
 
-   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=dreamlancer&theme=xcode"/>
-   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wg-d&bg_color=0c292E&color=a7e787&line=e729c7&point=FFFFFF&hide_border=true&theme=xcode" />
+    <img alt="wg-d's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wg-d&bg_color=0c292E&color=a7e787&line=e729c7&point=FFFFFF&hide_border=true&theme=xcode" />
  
 [![Github](https://img.shields.io/github/followers/wg-d?label=Follow&style=social)](https://github.com/wg-d)
 
