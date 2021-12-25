@@ -1,5 +1,5 @@
-<a style="color:green" href="mailto:dmitiykokolo@outlook.com"><i style="color:green"><h3>Let's keep posted!</h3></i></a>
-<a style="color:green" href="https://join.skype.com/HghXRqlKRvdN"><i style="color:green">Instant Messaging</i></a>
+<a style="color:green" href="mailto:bluewalleve@gmail.com"><h3>Let's keep posted!</h3></a>
+<a style="color:green" href="https://join.skype.com/HghXRqlKRvdN"><h3>Instant messaging!</h3></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO,+I+AM+Wall-E!;I+AM+A+SEASONED+DEVELOPER.;5+%2B%20YEARS%20OF%20EXPERIENCE;SUPER%20COMMUNICATIVE;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
 <h3 align="center">FULL-STACK WEB & MOBILE APPLICATION DEVELOPER</h3>
 <h2>About me</h2>
