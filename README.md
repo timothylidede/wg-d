@@ -7,10 +7,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rescenic&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" /> </p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=phanatagama&no-bg=true&no-frame=true&theme=onedark&column=7" />
-<!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
-</p>
+ [![GitHub Game of Life](https://github4life.herokuapp.com/1834924958.gif?z=6)](https://github4life.herokuapp.com/1834924958)
+
+  |   ![1834924958's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1834924958&theme=nightowl)](https://git.io/streak-stats)     |
+ | --- | --- |
+
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=1834924958&column=7&margin-w=20&theme=juicyfresh" alt="1834924958's Github Trophy" />
+
+<br/>
 <ul>
 <li>   🔭 I’m currently working on **React Native, Ethereum**</li>
    
