@@ -12,7 +12,7 @@
   |   ![wg-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=1834924958&column=7&margin-w=20&theme=juicyfresh" alt="1834924958's Github Trophy" />
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=wg-d&column=7&margin-w=20&theme=juicyfresh" alt="wg-d's Github Trophy" />
 
 <br/>
 <ul>
