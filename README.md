@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wg-d&label=Profile%20views&color=blue&style=flat" alt="wg-d" /> </p>
 
-(https://github4life.herokuapp.com/wg-d.gif?z=6)](https://github4life.herokuapp.com/wg-d)
+ [![GitHub Game of Life](https://github4life.herokuapp.com/wg-d.gif?z=6)](https://github4life.herokuapp.com/wg-d)
 
   |   ![wg-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
