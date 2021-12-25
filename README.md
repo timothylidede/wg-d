@@ -1,7 +1,7 @@
 <a style="color:green" href="mailto:dmitiykokolo@outlook.com"><i style="color:green">Let's keep posted!</i></a>
 <a style="color:green" href="https://join.skype.com/HghXRqlKRvdN"><i style="color:green">Instant Messaging</i></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+DREAMLANCER.;I+AM+A+SEASONED+WEB+DEVELOPER.;7+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
-<h3 align="center">FRONT-END ENGINEER & ECOMMERCE SPECIALIST</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+Wall-E.;I+AM+A+SEASONED+WEB+DEVELOPER.;5+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+<h3 align="center">FULL-STACK WEB & MOBILE APPLICATION DEVELOPER</h3>
 <h4>About me</h4>
 <p align="left">I am a passionate and self-motivated front-end engineer and eCommerce specialist. I have worked in serveral start-up companies, for which I had to work on several kinds of work. I focus mainly on front-end but I had to work on backend development and some DevOps works like deploying and maintaining server, enhancing SEO. I have hands-on experience in developing CMS, LMS, CRM, Online Store, Real Estate Management Platform, Crypto & NFT Auction Platforms since I had been involved in different start-up companies from various markets - Business, Education, Sports, Social Relation Management.</p>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=wg-d&column=7&margin-w=20&theme=juicyfresh" alt="wg-d's Github Trophy" />
