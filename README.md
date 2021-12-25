@@ -12,7 +12,7 @@
   |   ![wg-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
-   |   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1834924958&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1834924958&theme=github_dark)     |
+   |   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wg-d&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wg-d&theme=github_dark)     |
  | --- | --- |
 
 
