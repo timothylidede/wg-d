@@ -12,9 +12,9 @@
   |   ![wg-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=1834924958&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wg-d&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Github](https://img.shields.io/github/followers/1834924958?label=Follow&style=social)](https://github.com/1834924958)
+[![Github](https://img.shields.io/github/followers/wg-d?label=Follow&style=social)](https://github.com/wg-d)
 
 
 <br/>
