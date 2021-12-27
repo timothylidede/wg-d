@@ -44,7 +44,7 @@
   
 <li>😊 Am I serious? **Yes only when I work and it needs me to be serious.**</li>
 
-</ul>
+</ul> 
 <h2>Connect with me</h2>
 <p align="left">
 <a href="https://codepen.io/wg-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rescenic" height="48" width="48" /></a>
