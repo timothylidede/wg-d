@@ -5,7 +5,7 @@
 <p align="left">I am a passionate and self-motivated front-end engineer and eCommerce specialist. I have worked in serveral start-up companies, for which I had to work on several kinds of work. I focus mainly on front-end but I had to work on backend development and some DevOps works like deploying and maintaining server, enhancing SEO. I have hands-on experience in developing CMS, LMS, CRM, Online Store, Real Estate Management Platform, Crypto & NFT Auction Platforms since I had been involved in different start-up companies from various markets - Business, Education, Sports, Social Relation Management.</p>
 <h2>Status</h2>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=wg-d&column=7&margin-w=20&theme=juicyfresh" alt="wg-d's Github Trophy" />
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
  [![GitHub Game of Life](https://github4life.herokuapp.com/wg-d.gif?z=6)](https://github4life.herokuapp.com/wg-d)
 
   |   ![wg-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=wg-d&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wg-d&theme=nightowl)](https://git.io/streak-stats)     |
