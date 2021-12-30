@@ -17,7 +17,7 @@
 <img alt="wg-d's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wg-d&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
  
 [![Github](https://img.shields.io/github/followers/wg-d?label=Follow&style=social)](https://github.com/wg-d)
-
+<img src="https://komarev.com/ghpvc/?username=wg-d&label=Profile%20views&color=blue&style=flat" alt="wg-d" />
 
 <br/>
 <ul>
